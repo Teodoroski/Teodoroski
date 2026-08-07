@@ -1,6 +1,6 @@
  # Sejam bem - vindo ao meu GitHub!
 
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="500px">
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="1000px">
 
 ------
 
