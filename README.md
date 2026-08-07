@@ -10,6 +10,12 @@
 
 - 💭 Sonho em tornar um grande Dev back-end.
 
+### Rede Sociais
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="25px" />
+
+[Linkedln](www.linkedin.com/in/rhuan-teodoroski-45997039b)
+
+
 
 ### Minhas Tecnologias
 <p align="center">
