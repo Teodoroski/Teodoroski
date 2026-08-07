@@ -15,14 +15,14 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="100px">
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 -----
 
 | Cursos | Certificados |
 | -----  | -----        |
 | Formação .Net Developer | [Certificado](https://hermes.dio.me/certificates/ZWJIQEL5.pdf) |
-|
+
 
 
 
