@@ -11,11 +11,10 @@
 - 💭 Sonho em tornar um grande Dev back-end.
 
 ### Rede Sociais
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="25px" />
 
-[Linkedln](www.linkedin.com/in/rhuan-teodoroski-45997039b)
+ 📪 [Meu Linkedln](www.linkedin.com/in/rhuan-teodoroski-45997039b)
 
-
+---
 
 ### Minhas Tecnologias
 <p align="center">
@@ -29,11 +28,6 @@
 | Cursos | Certificados |
 | -----  | -----        |
 | Formação .Net Developer | [Certificado](https://hermes.dio.me/certificates/ZWJIQEL5.pdf) |
-
------
-
-![Rhuan Teodoroski GitHub stats](https://github-readme-stats.vercel.app/api?username=Teodoroski&show_icons=true&theme=radical)
-
 
 
 <!--
