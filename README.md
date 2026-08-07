@@ -6,12 +6,24 @@
 
 - 😀 Olá, me chamo Rhuan!
 
-- 🎓 Estou graduando 1° Termo em Engenharia de Software
+- 🎓 Estou graduando 1° Termo em Engenharia de Software.
 
-- 
+- 💭 Sonho em tornar um grande Dev back-end.
 
 
-### 
+### Minhas Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="100px" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="100px" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="100px" align="center">
+
+-----
+
+| Cursos | Certificados |
+| -----  | -----        |
+| Formação .Net Developer | [Certificado](https://hermes.dio.me/certificates/ZWJIQEL5.pdf) |
+|
+
 
 
 
