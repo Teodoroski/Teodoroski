@@ -13,9 +13,9 @@
 
 ### Minhas Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="100px" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="100px" align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="100px" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="100px">
 
 -----
 
