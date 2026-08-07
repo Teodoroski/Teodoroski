@@ -13,9 +13,9 @@
 
 ### Minhas Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px"/>
 
 -----
 
@@ -23,7 +23,9 @@
 | -----  | -----        |
 | Formação .Net Developer | [Certificado](https://hermes.dio.me/certificates/ZWJIQEL5.pdf) |
 
+-----
 
+![Rhuan Teodoroski GitHub stats](https://github-readme-stats.vercel.app/api?username=Teodoroski&show_icons=true&theme=radical)
 
 
 
