@@ -4,13 +4,11 @@
 
 ------
 
-- 😀 Olá, me chamo Rhuan!
+ 😀 Olá, me chamo Rhuan!
 
-- 🎓 Estou graduando 1° Termo em Engenharia de Software.
+ 🎓 Estou graduando 1° Termo em Engenharia de Software.
 
-- 💭 Sonho em tornar um grande Dev back-end.
-
-### Rede Sociais
+ 💭 Sonho em tornar um grande Dev back-end.
 
  📪 [Meu Linkedln](www.linkedin.com/in/rhuan-teodoroski-45997039b)
 
