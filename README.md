@@ -19,6 +19,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="100px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="100px" />
 </p>
 
 -----
@@ -26,6 +31,8 @@
 | Cursos | Certificados |
 | -----  | -----        |
 | Formação .Net Developer | [Certificado](https://hermes.dio.me/certificates/ZWJIQEL5.pdf) |
+| Formação Github Certification | [Certificado](https://hermes.dio.me/certificates/2BYO0B6V.pdf)
+| Formação HTML Web Developer | [Certificado](https://hermes.dio.me/certificates/CQBJIKZ0.pdf)
 
 
 <!--
