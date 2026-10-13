@@ -6,7 +6,7 @@
 
  😀 Olá, me chamo Rhuan!
 
- 🎓 Estou graduando 1° Termo em Engenharia de Software.
+ 🎓 Estou graduando 2° Semestre em Engenharia de Software.
 
  💭 Sonho em tornar um grande Dev back-end.
 
